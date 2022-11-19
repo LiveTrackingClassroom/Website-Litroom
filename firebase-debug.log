@@ -1,0 +1,21 @@
+[debug] [2022-10-21T19:19:51.838Z] ----------------------------------------------------------------------
+[debug] [2022-10-21T19:19:51.840Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-10-21T19:19:51.841Z] CLI Version:   11.15.0
+[debug] [2022-10-21T19:19:51.841Z] Platform:      win32
+[debug] [2022-10-21T19:19:51.841Z] Node Version:  v16.14.0
+[debug] [2022-10-21T19:19:51.842Z] Time:          Sat Oct 22 2022 02:19:51 GMT+0700 (GMT+07:00)
+[debug] [2022-10-21T19:19:51.842Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-21T19:19:51.850Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-21T19:19:51.850Z] > authorizing via signed-in user (galaxyoneone64@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\User\Desktop\Kuliah Semester 7\HSC-2022\Project-HSC\Public
+

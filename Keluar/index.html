@@ -8,6 +8,13 @@
     <title>Live Tracking Classroom</title>
     <link rel="shortcut icon" href="/assets/images/Litroom_logo.png">
 
+
+    <!-- Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+    
+    <!-- <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-analytics.js"></script>
+    
     <!-- CSS -->
     <link rel="stylesheet" href="/CSS/style.css">
 
@@ -46,8 +53,8 @@
     <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 
     <div class="form-floating">
-      <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-      <label for="floatingInput">NIP/NPM</label>
+      <input type="email" class="form-control" id="floatingInput" placeholder="Email">
+      <label for="floatingInput">Email</label>
     </div>
     <div class="form-floating">
       <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
@@ -59,12 +66,11 @@
         <input type="checkbox" value="remember-me"> Remember me
       </label>
     </div>
-    <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+    <!--<button class="w-100 btn btn-lg btn-primary" id="Button_Login">Sign in</button> -->
+    <a type="button" class="w-100 btn btn-lg btn-primary" href="/Beranda/index.html">Sign in</a>
     <p class="mt-5 mb-3 text-muted"> 2022 &copy; Litroom Project</p>
   </form>
 </main>
-
-
-    
+<script src="/Masuk/script.js"></script>
   </body>
 </html>
